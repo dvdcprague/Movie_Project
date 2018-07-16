@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username:
+account: dvdcpragueshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 381775
+bundleId: 1483292
+url: https://dvdcpragueshiny.shinyapps.io/shiny/
+when: 1531776385.91143
+asMultiple: FALSE
+asStatic: FALSE
